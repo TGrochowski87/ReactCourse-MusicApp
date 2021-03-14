@@ -1,5 +1,5 @@
 
-###App created with an online React Course by Dev Ed.
+### App created with an online React Course by Dev Ed.
 https://developedbyed.com/p/the-creative-react-and-redux-course/?product_id=2592704&coupon_code=YTEARLY
 
 
