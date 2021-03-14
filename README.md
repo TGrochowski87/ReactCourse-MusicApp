@@ -1,6 +1,5 @@
 
-### App created with an online React Course by Dev Ed.
-https://developedbyed.com/p/the-creative-react-and-redux-course/?product_id=2592704&coupon_code=YTEARLY
+### App created with an online React Course by [Dev Ed](https://www.youtube.com/c/DevEd/featured)
 
 
 # Getting Started with Create React App
@@ -75,6 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-#### Audio and images imported from https://chillhop.com/
+#### Audio and images imported from [ChillHop](https://chillhop.com/)
 
 If you like the music used in this app, go and check this site out!
